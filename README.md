@@ -1,5 +1,5 @@
 # Reading_and_Writing_mutiple_images_from_folder-python3-opencv
-1. Code to read mutiple images from folder and display
+# 1. Code to read mutiple images from folder and display
 
 Steps to Execution:
 1. Clone the code  
@@ -13,7 +13,7 @@ Steps to Execution:
 4. The images will be displayed one after one.
 
 
-2. Code to read mutiple images from folder and write mutiple images into folder and display
+# 2. Code to read mutiple images from folder and write mutiple images into folder and display
 
 Steps to Execution:
 1. Clone the code  
