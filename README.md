@@ -1,5 +1,6 @@
 # Reading_and_Writing_mutiple_images_from_folder-python3-opencv
 # 1. Code to read mutiple images from folder and display
+--------------------------------------------------------
 
 Steps to Execution:
 1. Clone the code  
@@ -8,12 +9,15 @@ Steps to Execution:
    dir_path = "/home/ambi/Documents/readimages/"
    
 3. Run the following command
-   python3 read.py
+```
+ $ python3 read.py
+ 
+```
    
 4. The images will be displayed one after one.
 
-
 # 2. Code to read mutiple images from folder and write mutiple images into folder and display
+---------------------------------------------------------------------------------------------
 
 Steps to Execution:
 1. Clone the code  
@@ -25,8 +29,10 @@ Steps to Execution:
    path = "/home/ambi/Documents/writeimages/image_%d.jpg"%d
    
 3. Run the following command
-   python3 readwrite.py
-   
+```
+ $ python3 readwrite.py
+ 
+```
 4. The images will be displayed one after one.
 
    
